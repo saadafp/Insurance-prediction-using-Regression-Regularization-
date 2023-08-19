@@ -1,4 +1,4 @@
-# Insurance-prediction-using-Regression-Regulation
+# Insurance-prediction-using-Regression-regularization 
 
 In this project, I use different Regression models to predict on Insurance dataset.
 
